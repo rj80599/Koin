@@ -20,7 +20,7 @@ This project demonstrates a basic implementation of the Model-View-ViewModel (MV
 * **repository:** Houses the data access layer, interacting with the network or local data sources.
 * **model:** Defines data models for the application.
 * **retrofit:** Contains interfaces for interacting with the API.
-* **di:** Contains modules for dependency injection using Hilt.
+* **di:** Contains modules for dependency injection using Koin.
 
 **Getting Started:**
 
