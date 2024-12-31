@@ -7,7 +7,6 @@ This project demonstrates a basic implementation of the Model-View-ViewModel (MV
 * **Koin:** DSL based dependency injection.
 * **Clean Architecture:** Adheres to the MVVM pattern for better separation of concerns.
 * **Jetpack Compose:** Utilizes modern declarative UI with Jetpack Compose.
-* **Hilt:** Implements dependency injection with Hilt for easier maintainability.
 * **Coroutines:** Leverages Kotlin Coroutines for asynchronous operations.
 * **StateFlow:** Employs StateFlow for efficient and reactive data flow.
 * **Retrofit:** Integrates with Retrofit for network requests.
